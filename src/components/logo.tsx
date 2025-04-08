@@ -8,7 +8,7 @@ export default function Logo({ className }: { className?: string }) {
         className
       )}
     >
-      Devfolio<span className="text-primary font-bold">.</span>
+      DevPragya<span className="text-primary font-bold">.</span>
     </h3>
   );
 }

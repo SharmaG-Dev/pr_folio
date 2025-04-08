@@ -9,10 +9,10 @@ export default function Main() {
         <div className="w-full grid grid-cols-1  md:grid-cols-6 h-sub-main ">
           <div className="col-span-6 flex flex-col max-sm:items-center gap-8 self-end">
             <h1 className="text-lg md:text-4xl font-semibold text-primary ">
-              Hello, I&apos;m Abhishek Sharma
+              Hello, I&apos;Pragya Tripathi
             </h1>
             <h1 className="dark:text-white text-dark text-3xl md:text-6xl xl:text-7xl font-bold">
-              Full Stack Developer{" "}
+              Frontend Developer{" "}
             </h1>
             <p className="text-custom-gray text-center md:text-left text-sm md:text-base font-normal w-10/12 md:w-3/5">
               I&apos;m from Singapore and I have been working as a Product

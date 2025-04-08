@@ -3,11 +3,9 @@ import "./globals.css";
 import Provider from "./provider";
 
 export const metadata: Metadata = {
-  title: "Mrnow | Mr Full stack Developer",
-  description: "Mr Full Stack Developer",
-  icons: {
-    icon: "/favicon.ico", 
-  },
+  title: "Pragya Tripathi |  Frontend Developer",
+  description: "Frontend Developer",
+
 };
 
 export default function RootLayout({
